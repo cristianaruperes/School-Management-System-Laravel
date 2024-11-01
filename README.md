@@ -1,3 +1,3 @@
-#Clinic Management System
+#School Management System
 
-I have developed a comprehensive management system for clinics and small hospitals that streamlines operations across various departments. This system covers the entire process, from patient registration to pharmacy management and payment processing. It enables efficient scheduling, accurate tracking of medical records, seamless coordination with the pharmacy, and simplified billing. By integrating these core functions, the system improves the overall workflow, reduces waiting times, and enhances the patient experience while ensuring that clinic staff can manage their tasks more effectively and with greater accuracy.
+Basic CRUD application for a school to manage its classes, teachers and students.
